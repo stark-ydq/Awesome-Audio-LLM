@@ -495,6 +495,8 @@ and You!
   - [![GitHub stars](https://img.shields.io/github/stars/lyuchenyang/Macaw-LLM?style=social)](https://github.com/lyuchenyang/Macaw-LLM)
   - [Paper](https://arxiv.org/pdf/2306.09093)
 
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
+
 ## Survey
 
 - `【2024-11】-【WavChat-Survey】-【Zhejiang University】-【Type: Survey】`
